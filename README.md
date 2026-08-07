@@ -11,7 +11,8 @@ I'm working out a migration path from WordPress to static builds, and I'm measur
 on my own site first — before I offer it to anyone.
 
 **The procedure is not finished yet.** I would rather say that than imply otherwise.
-What I can show today is the sample below: real, deployed, and built end to end.
+What I can show today is the sample below. It is real, deployed, and built end to end —
+and still in progress: the images in it are placeholders.
 
 When I publish measurements, they will be my own, taken under stated conditions.
 
@@ -34,7 +35,8 @@ WordPress の表示速度の改善と、運用の立て直し。
 WordPress からの移行手順を、まず自分のサイトで測りながら作っています。
 
 **手順はまだ固まっていません。** 固まっていない段階で「できます」とは書かないことにしています。
-いま出せるのは下の Astro のサンプルで、これは実在して公開しているものです。
+いま出せるのは下の Astro のサンプルです。実在して公開していますが、
+**画像がプレースホルダのままで、まだ仕上げ中**です。
 
 数値を出すときは、自分で測ったものを、計測条件と一緒に出します。
 
